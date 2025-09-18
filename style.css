@@ -1,0 +1,25 @@
+body{
+    font-family:   Arial, sans-serif;
+    background-color: rgb(213, 213, 213);
+    margin: 0;
+}
+
+header{
+    padding-left: 40px;
+    box-sizing: border-box;
+    background-color: white;
+    font-size:52px;
+    font-weight: 800;
+    vertical-align: middle;
+    height: 100px;
+    line-height: 100px;
+    width: 100%;
+}
+header img{
+   height:60%;
+   vertical-align: middle;
+}
+#logo{  
+    
+     
+}
